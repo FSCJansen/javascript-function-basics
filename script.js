@@ -18,7 +18,10 @@ const sushiMaking = function(){
     console.log("Snij de rol in gelijke delen");
     };
 
-console.log("orderedPizzas * pizzaMaking();");
-console.log("orderedSushis * sushiMaking();");
+pizzaMaking()
+pizzaMaking()
+sushiMaking()
+sushiMaking()
+sushiMaking()
 
 
